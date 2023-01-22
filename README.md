@@ -23,7 +23,7 @@
 [<img align="left" alt="Typescript" width="26px" src="https://www.typescriptlang.org/favicon-32x32.png?v=8944a05a8b601855de116c8a56d3b3ae" />](https://typescriptlang.org)
 [<img align="left" alt="React" width="26px" src="https://reactjs.org/favicon.ico" />](https://reactjs.org/)
 [<img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/1195551/213902145-0ae051bf-e530-485f-8bd0-ebb868866639.png" />](https://www.djangoproject.com/)
-[<img align="left" alt="ArgoCD" width="26px" src="![image](https://user-images.githubusercontent.com/1195551/213902210-d9967e68-a4a8-43d4-871e-c1dae6203da2.png)
+[<img align="left" alt="ArgoCD" width="26px" src="https://user-images.githubusercontent.com/1195551/213902210-d9967e68-a4a8-43d4-871e-c1dae6203da2.png
 " />](https://argo-cd.readthedocs.io/en/stable/)
 <br />
 
