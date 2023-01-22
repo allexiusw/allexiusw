@@ -25,8 +25,8 @@
 [<img align="left" alt="Django" width="26px" src="https://user-images.githubusercontent.com/1195551/213902145-0ae051bf-e530-485f-8bd0-ebb868866639.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="ArgoCD" width="26px" src="https://aperogeek.fr/wp-content/uploads/2020/07/argo-wheel.23b3ad84-598x1024.png" />](https://argo-cd.readthedocs.io/en/stable/)
 [<img align="left" alt="Ruby" width="26px" src="https://www.w3adda.com/wp-content/uploads/2022/03/ruby-47-1175102-150x150.png" />](https://www.ruby-lang.org/en/)
-[<img align="left" alt="Ruby on Rails" width="26px" src="https://www.adrenalina.es/wp-content/uploads/2020/04/desarrollador-ruby-on-rails.png" />]([https://argo-cd.readthedocs.io/en/stable/](https://rubyonrails.org/))
-<br />
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://www.adrenalina.es/wp-content/uploads/2020/04/desarrollador-ruby-on-rails.png" />]([https://argo-cd.readthedocs.io/en/stable/](https://rubyonrails.org/))  
+<br />  
 
 
 Reach out if you need help, mentoring or software development services.
