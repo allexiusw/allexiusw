@@ -1,6 +1,6 @@
 ## <img src="https://i.imgur.com/lsizgGl.gif" width="30px" height="30px"> Hi I'm Allexiusw  || <img src="https://komarev.com/ghpvc/?username=allexiusw&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
-- 💫 I’m currently working on Zen Businsess - `A Unicorn company in the US.`
+- 💫 I’m currently working on Zen Business - `A Unicorn company in the US.`
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
 - ⚡ Always ready to contribute!
 
