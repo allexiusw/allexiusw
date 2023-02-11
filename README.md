@@ -3,6 +3,7 @@
 - 💫 I’m currently working on ZenBusiness - `A Unicorn company in the US.`
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
 - ⚡ Always ready to contribute!
+- [Want to reach out through UpWork](https://www.upwork.com/workwith/allexiusw)
 
 ---
 ### My Projects -
