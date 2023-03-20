@@ -10,6 +10,14 @@
 - <a href="https://github.com/Solvosoft/django-gentelella-widgets">Django Gentelella Widgets</a>
 
 ---
+### Work Experience
+- Senior Software Engineer at [Ohi Technologies](https://ohi.com/)
+- Django Developer at [Solvo Soft](https://solvosoft.com/en/)
+- Team Lead at [Bird Consultores](https://bird.com.sv/web/)
+- Freelance Developer at [Grupo Campestre](http://www.pollocampestre.com/)
+- Freelance Developer at [IAIP](https://www.transparencia.gob.sv/)
+
+---
 ### 🔗 Connect with me:
 
 <a href="mailto:william.al1379@gmail.com"><img align="left" alt="Mail" width="28px" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" /></a>
