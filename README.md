@@ -6,10 +6,6 @@
 - [Want to reach out through UpWork](https://www.upwork.com/workwith/allexiusw)
 
 ---
-### My Projects -
-- <a href="https://github.com/Solvosoft/django-gentelella-widgets">Django Gentelella Widgets</a>
-
----
 ### Work Experience
 - Senior Software Engineer at [Ohi Technologies](https://ohi.com/)
 - Django Developer at [Solvo Soft](https://solvosoft.com/en/)
