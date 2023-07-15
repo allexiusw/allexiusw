@@ -1,6 +1,8 @@
 ## <img src="https://i.imgur.com/lsizgGl.gif" width="30px" height="30px"> Hi I'm Allexiusw  || <img src="https://komarev.com/ghpvc/?username=allexiusw&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
 
+
 > Moving fast, breaking things, reconvering quickly. Using the latest technologies available in the world.
+
 
 - 💫 I’m currently working on ZenBusiness - `A Unicorn company in the US.`
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
