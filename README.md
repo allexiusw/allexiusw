@@ -4,13 +4,13 @@
 > Moving fast, breaking things, recovering quickly. Using the latest technologies available in the world.
 
 
-- 💫 I’m currently working on ZenBusiness - `A Unicorn company in the US.`
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
 - ⚡ Always ready to contribute!
 - [Want to reach out through UpWork](https://www.upwork.com/workwith/allexiusw)
 
 ---
 ### Work Experience
+- Senior Software Engineer at [ZenBusiness](https://www.zenbusiness.com/) - `A Unicorn company in the US.`
 - Senior Software Engineer at [Ohi Technologies](https://ohi.com/)
 - Django Developer at [Solvo Soft](https://solvosoft.com/en/)
 - Team Lead at [Bird Consultores](https://bird.com.sv/web/)
