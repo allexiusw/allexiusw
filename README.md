@@ -1,5 +1,6 @@
-## <img src="https://i.imgur.com/lsizgGl.gif" width="30px" height="30px"> Hi I'm Allexiusw  || <img src="https://komarev.com/ghpvc/?username=allexiusw&label=Profile Views&color=blue&style=plastic" alt="profileViews" />
+## <img src="https://i.imgur.com/lsizgGl.gif" width="30px" height="30px"> Hi I'm Allexiusw
 
+![](https://komarev.com/ghpvc/?username=allexiusw&color=blue&style=plastic)
 
 > Moving fast, breaking things, recovering quickly. Using the latest technologies available in the world.
 
