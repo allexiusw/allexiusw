@@ -7,7 +7,6 @@
 
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
 - ⚡ Always ready to contribute!
-- [Want to reach out through UpWork](https://www.upwork.com/workwith/allexiusw)
 
 ---
 ### Work Experience
