@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=allexiusw&color=blue&style=plastic)
 
-> Moving fast, breaking things, recovering quickly. Using the latest technologies available in the world.
+Senior Software Engineer | Fintech | TDD | Cloud Tools
 
 
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
