@@ -4,6 +4,7 @@
 
 Senior Software Engineer | Fintech | TDD | Cloud Tools
 
+![Metrics](/github-metrics.svg)
 
 - 📱 [Contact with me](https://www.linkedin.com/in/allexiusw/)
 - ⚡ Always ready to contribute!
