@@ -15,6 +15,7 @@ Senior Software Engineer | Fintech | TDD | Cloud Tools
 - Senior Software Engineer at [Ohi Technologies](https://ohi.com/)
 - Django Developer at [Solvo Soft](https://solvosoft.com/en/)
 - Team Lead at [Bird Consultores](https://bird.com.sv/web/)
+- Freelance Developer at [DTodo Tech](https://www.dtodotech.com/)
 - Freelance Developer at [Grupo Campestre](http://www.pollocampestre.com/)
 - Freelance Developer at [IAIP](https://www.transparencia.gob.sv/)
 - Research & Science Professor at [Universidad Gerardo Barrios](https://ugb.edu.sv/)
